@@ -1,0 +1,22 @@
+---------------- Bismillahir Rahmanir Rahim--------------
+
+Assalamu Alaikum. I am giving you the project that will predict the disease severity based on medical stats and genetic stats of a Beta- Thalassemia Patient.
+Also it'll predict how much HbF (Fetal Hemoglobin) is needed to possibly counter that severity.
+
+I have used Multi-Task Attention Transformer for this Project. This is a transformer model which has given 2 different tasks.
+ 1. Classifying the disease severity.
+ 2. Determining the HbF production for that severity level.
+
+Also you can see the performance metrics for this saved model.
+
+In order to test the model please use genuine clinical data for input as per asked. The output will show : the disease severity level and also the
+HbF production percentage.
+
+The saved model is provided for you.
+
+Thank you, Happy Coding, Keep Me in Your Prayers,
+Mushfiq Shahid
+
+
+
+-------------- Allahu Akbar --------------
